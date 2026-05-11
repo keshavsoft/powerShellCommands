@@ -1,4 +1,4 @@
-# cloneReposPar6
+# cloneReposV5
 
 $repos = @(
     "https://github.com/keshavsoft/kschema-api-gen",
