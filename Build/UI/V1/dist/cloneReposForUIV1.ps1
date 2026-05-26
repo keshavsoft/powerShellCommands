@@ -216,16 +216,8 @@ function Open-Workspace {
 # ===== FILE : .\main.ps1 =====
 
 $repos = @(
-    "https://github.com/keshavsoft/vs-code-ext-boilerplate",    
-    "https://github.com/keshavsoft/vs-code-ext-express-api-gen",
-    "https://github.com/keshavsoft/vs-code-ext-express-api-gen-routes",
-    "https://github.com/keshavsoft/vs-code-ext-express-api-gen-endpoints",
-    "https://github.com/keshavsoft/vs-code-ext-express-api-gen-actions",
-    "https://github.com/keshavsoft/express-todo",
-    "https://github.com/keshavsoft/kschema-api-gen-appjs",
-    "https://github.com/keshavsoft/kschema-api-gen-routesjs",
-    "https://github.com/keshavsoft/kschema-api-gen-endpointsjs",
-    "https://github.com/keshavsoft/kschema-api-gen-actions"
+    "https://github.com/keshavsoft/tailwind-todo",    
+    "https://github.com/keshavsoft/json-crud-ui-init"
 )
 
 $baseFolder = "D:\KeshavSoftRepos"

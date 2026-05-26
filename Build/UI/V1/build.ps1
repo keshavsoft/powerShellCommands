@@ -11,7 +11,7 @@ $sourceFiles = @(
     ".\main.ps1"
 )
 
-$outputFile = ".\dist\cloneReposForExpressV4.ps1"
+$outputFile = ".\dist\cloneReposForUIV1.ps1"
 
 if (!(Test-Path ".\dist")) {
 
