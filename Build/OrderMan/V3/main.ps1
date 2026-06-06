@@ -1,10 +1,10 @@
 $repos = @(
-    "https://github.com/keshavsoft/accountsV8",    
+    "https://github.com/keshavsoft/OrderManV14",    
     "https://github.com/keshavsoft/kschema-fs-api-gen-actions",
     "https://github.com/keshavsoft/json-crud-fs",
     "https://github.com/keshavsoft/json-crud-ui-table",
     "https://github.com/keshavsoft/tailwind-table-dom",
-    "https://github.com/keshavsoft/tailwind-header-dom",
+    "https://github.com/keshavsoft/tailwind-header",
     "https://github.com/keshavsoft/vs-code-ext-json-crud-ui-table"
 )
 
