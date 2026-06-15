@@ -88,7 +88,7 @@ function Get-WorkspaceFolder {
 
     $todayFolder = Get-TodayFolderName
 
-    $targetFolder = Join-Path $baseFolder ("priceMan_" + $todayFolder)
+    $targetFolder = Join-Path $baseFolder ("Accounts_" + $todayFolder)
 
     if (!(Test-Path $targetFolder)) {
         return $targetFolder
@@ -216,16 +216,12 @@ function Open-Workspace {
 # ===== FILE : .\main.ps1 =====
 
 $repos = @(
-    "https://github.com/keshavsoft/priceListV1",    
+    "https://github.com/keshavsoft/accountsV8",    
     "https://github.com/keshavsoft/kschema-fs-api-gen-actions",
     "https://github.com/keshavsoft/json-crud-fs",
     "https://github.com/keshavsoft/json-crud-ui-table",
-    "https://github.com/keshavsoft/json-crud-ui-comp",
     "https://github.com/keshavsoft/tailwind-table-dom",
     "https://github.com/keshavsoft/tailwind-header-dom",
-    "https://github.com/keshavsoft/tailwind-table-dom-comp",
-    "https://github.com/keshavsoft/tailwind-vertical-dom",
-    "https://github.com/keshavsoft/tailwind-gen-css",
     "https://github.com/keshavsoft/vs-code-ext-json-crud-ui-table"
 )
 function Get-BaseFolder {
