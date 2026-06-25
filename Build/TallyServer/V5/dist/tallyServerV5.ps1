@@ -218,6 +218,7 @@ function Open-Workspace {
 $repos = @(
     "https://github.com/keshavsoft/vs-code-ext-boilerplate",    
     "https://github.com/keshavsoft/tallyServerV2",  
+    "https://github.com/keshavsoft/OrderManV14",  
     "https://github.com/keshavsoft/express-todo",  
     "https://github.com/keshavsoft/express-fix-endpoints-del-js",
     "https://github.com/keshavsoft/json-crud-fs",
