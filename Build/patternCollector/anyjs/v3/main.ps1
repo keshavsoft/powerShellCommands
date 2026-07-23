@@ -1,6 +1,6 @@
 $repos = @(
-"https://github.com/keshavsoft/pattern-collector-anyjs",
-"https://github.com/keshavsoft/pattern-collector",
+    "https://github.com/keshavsoft/pattern-collector-anyjs",
+    "https://github.com/keshavsoft/pattern-collector",
     "https://github.com/keshavsoft/pattern-collector-base-regex",
     "https://github.com/keshavsoft/pattern-collector-anyjs-matches",
     "https://github.com/keshavsoft/pattern-collector-anyjs-extract",

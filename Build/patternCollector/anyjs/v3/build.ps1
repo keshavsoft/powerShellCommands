@@ -11,7 +11,7 @@ $sourceFiles = @(
     ".\main.ps1"
 )
 
-$outputFile = ".\dist\patternCollectorAnyJsV2.ps1"
+$outputFile = ".\dist\patternCollectorAnyJsV3.ps1"
 
 if (!(Test-Path ".\dist")) {
 
