@@ -10,7 +10,8 @@ $repos = @(
     "https://github.com/keshavsoft/pattern-collector-anyjs-build-story",
     "https://github.com/keshavsoft/express-fix-any-js-from-story",
     "https://github.com/keshavsoft/express-fix-any-js-from-for-import",
-    "https://github.com/keshavsoft/express-fix-any-js-from-for-consumption"
+    "https://github.com/keshavsoft/express-fix-any-js-from-for-consumption",
+    "https://github.com/keshavsoft/vs-code-ext-from-any-js"
 )
 
 function Get-BaseFolder {
